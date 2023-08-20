@@ -1,0 +1,19 @@
+.income{
+    background-color: greenyellow;
+    margin: 0.2em;
+}
+.expense{
+    background-color: red;
+    color: white;
+    margin: 0.2em;
+}
+.transactionH{
+    margin-top: 1em;
+}
+.history{
+    margin-top: 2em;
+}
+.details{
+    display: flex;
+    gap: 8px;
+}
