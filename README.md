@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
+### `You can also view it here: (https://walletapfrontend-kakaymi10.vercel.app/)` 
 In the project directory, you can run:
 ### `npm install`
 To install all the dependencies
