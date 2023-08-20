@@ -63,7 +63,7 @@ function SignIn() {
       {user ? (
         <div>
             <Home signout={handleSignout}
-            user={user.split('@')[0]}/>
+            user={user.split('@')[0].replace(/[^a-zA-Z0-9]/g, '')}/>
 
         </div>
       ) : (
